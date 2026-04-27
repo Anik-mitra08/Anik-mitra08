@@ -66,7 +66,7 @@
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,vscode,firebase,mongodb,mysql,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins,maven,vscode,firebase,mongodb,mysql,netlify,vercel" />
 </p>
 
 ---
