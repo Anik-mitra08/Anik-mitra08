@@ -50,7 +50,7 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,selenium" />
+  <img src="https://skillicons.dev/icons?i=java,javascript" />
 </p>
 
 ### 🧪 Testing & Automation
@@ -66,7 +66,7 @@
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,jenkins,maven,vscode,firebase,mongodb,mysql,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins,maven,vscode,firebase,mongodb,mysql,netlify,vercel,cucumber" />
 </p>
 
 ---
