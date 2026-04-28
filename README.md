@@ -50,7 +50,7 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,selenium" />
 </p>
 
 ### 🧪 Testing & Automation
